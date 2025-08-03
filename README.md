@@ -1,4 +1,5 @@
 Fabrika Verimliliği ve Süreç İyileştirme Analizi
+
 Bu depo, bir fabrika üretim hattının verimliliğini, operasyonel süreçlerini ve kalite kontrolünü analiz etmek amacıyla hazırlanan bir veri analizi projesini içermektedir. Proje kapsamında, fabrikanın kritik iş süreçlerinden (üretim, bakım, stok yönetimi) elde edilen veriler değerlendirilerek, mevcut durumun kapsamlı bir resmi çıkarılmış ve somut iyileştirme önerileri sunulmuştur.
 
 Kullanılan Teknolojiler
